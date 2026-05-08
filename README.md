@@ -1,20 +1,25 @@
-# 岩手県3D人口棒グラフ
+# 岩手県の人口棒グラフ
 
-本プロジェクトは、岩手県内のオープンデータを活用し、各市町村の人口分布等を3Dマップとして可視化したものです。
+<img width="1920" height="1080" alt="{B9272F4A-3798-42A3-A1F4-672C2D9ACF34}" src="https://github.com/user-attachments/assets/f2a14211-292e-43e6-8991-1b4c647e41dd" />
 
-## 📊 データの出典・ライセンスについて
-本マップの作成にあたり、以下のオープンデータを利用・加工しています。
+https://gyosei-yuki.github.io/iwate-population-map/morioka.html
 
-1. **岩手県オープンデータポータルサイト「DataEYE」**
-   - 盛岡市_地域・年齢別人口_2023-09-30
-   - 岩手県および各市町村が提供するオープンデータを加工して作成しています。
-   - （クリエイティブ・コモンズ）
+# 📊 データ出典・ライセンス
 
-2. **政府統計の総合窓口（e-Stat）**
-   - 境界データ等のシェープファイルを加工して作成しています。
-   - 出典：「政府統計の総合窓口(e-Stat)」(https://www.e-stat.go.jp/)
+本プロジェクトは、以下のオープンデータを利用・加工して作成しています。
 
-## 🛠️ 使用技術・ツール
-- データ加工: Python, Pandas, GeoPandas
-- 3D可視化: Kepler.gl (Uber Open Source - MIT License)
-- ベースマップ: Mapbox
+**1. 岩手県オープンデータポータル「DataEYE」**
+本データは「CC BY（表示）」に基づき、一部加工して利用しています。
+出典：岩手県及び市町村共同オープンデータポータルサイト「DataEYE」（https://dataeye.iwate.jp/）
+
+**2. 政府統計の総合窓口（e-Stat）**
+出典：「政府統計の総合窓口（e-Stat）」（https://www.e-stat.go.jp/）
+※本データは加工して利用しています。
+
+---
+# 🛠️ 使用ツール・地図データ
+- **Mapbox**: © Mapbox © OpenStreetMap
+- **kepler.gl**: © Uber Technologies, Inc. （本プロジェクトは MIT License に基づき kepler.gl を利用しています）
+- **データ処理**: Python (Pandas, GeoPandas)
+
+---
