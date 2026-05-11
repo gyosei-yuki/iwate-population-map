@@ -13,6 +13,9 @@
 本データは「CC BY（表示）」に基づき、一部加工して利用しています。
 出典：岩手県及び市町村共同オープンデータポータルサイト「DataEYE」（https://dataeye.iwate.jp/）
 
+出典：北上市オープンデータサイト
+https://www.city.kitakami.iwate.jp/life/soshikikarasagasu/toshipromotionka/jouhouseisakusuishinshitsu/1_1/opendata/index.html
+
 **2. 政府統計の総合窓口（e-Stat）**
 出典：「政府統計の総合窓口（e-Stat）」（https://www.e-stat.go.jp/）
 ※本データは加工して利用しています。
