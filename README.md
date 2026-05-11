@@ -2,7 +2,8 @@
 
 <img width="1920" height="1080" alt="{B9272F4A-3798-42A3-A1F4-672C2D9ACF34}" src="https://github.com/user-attachments/assets/f2a14211-292e-43e6-8991-1b4c647e41dd" />
 
-https://gyosei-yuki.github.io/iwate-population-map/morioka.html
+* 盛岡市 https://gyosei-yuki.github.io/iwate-population-map/morioka.html
+* 北上市 https://gyosei-yuki.github.io/iwate-population-map/kitakami.html
 
 # 📊 データ出典・ライセンス
 
